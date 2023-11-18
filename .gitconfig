@@ -1,3 +1,5 @@
 [user]
 	email = arshiawalia.jobhunt@gmail.com
 	name = arshia-walia
+[credential]
+	helper = cache
