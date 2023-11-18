@@ -301,3 +301,19 @@ Invoke-WebRequest "https://storage.googleapis.com/cloud-onboarding/agent/scripts
 /home/elasticsearch/elasticsearch-8.11.0
 cd /home/elasticsearch/elasticsearch-8.11.0
 bin/elasticsearch
+git init
+git status
+git checkout -b 'atlan_lily'
+git sttaus
+git status
+git add .
+git status
+git commit -m 'atlan lily project'
+git config --global user.email "arshiawalia.jobhunt@gmail.com"
+git config --global user.name "arshia-walia"
+git commit -m 'atlan lily project'
+git status
+git add .
+git push origin master
+git push master
+git push origin atlan_lily
